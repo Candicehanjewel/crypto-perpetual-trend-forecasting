@@ -1,0 +1,3 @@
+idx,time,signal,side,price,stroke_idx,description
+43,2026-02-03 10:00:00,S2,sell,4.658,4,S2: 二卖:反弹无力15.8%
+80,2026-02-11 10:30:00,B2,buy,4.714,7,B2: 二买:不创新低+回调18.8%
